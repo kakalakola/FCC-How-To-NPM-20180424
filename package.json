@@ -1,14 +1,15 @@
 {
   "name": "@lakakalo/fcc_npm_project_01_20180424",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "NPM Exercise 01 for FreeCodeCamp.org",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
-  "author": "Saad Azim",
+  "author": "@lakakalo",
   "license": "ISC",
   "dependencies": {
     "@linclark/pkg": "^1.0.3"
-  }
+  },
+  "repository": "https://github.com/kakalakola/FCC-NPM-Project-01-20180424"
 }
